@@ -15,6 +15,7 @@ file1.txt: file0.txt
 	# - means that make will keep going in the case of an error.
 	# Try `make file1.txt` on the commandline.
 
+
 # A rule can have multiple targets and multiple prerequisites
 file2.txt file3.txt: file0.txt file1.txt
 	touch file2.txt
