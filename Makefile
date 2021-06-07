@@ -4,6 +4,7 @@ file0.txt:
 	# Even comments in these 'recipe' sections get passed to the shell.
 	# Try `make file0.txt` or simply `make` - first rule is the default.
 
+
 # This rule will only run if file0.txt is newer than file1.txt.
 file1.txt: file0.txt
 	cat file0.txt > file1.txt
