@@ -9,8 +9,6 @@ test.paired_end.sorted.bam:
 conda_env:
 	conda env create --name=more-map-and-call --file=env.yaml
 
-# A phony target. Any target that isn't a file.
-# It will never be up to date so make will always try to run it.
 clean:
-	rm file*.txt
+	rm genome.gtf test.paired_end.sorted.bam
 
