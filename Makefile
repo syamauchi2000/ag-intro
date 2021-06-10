@@ -1,3 +1,5 @@
+conda_env:
+	conda env create --name=more-map-and-call --file=enc.yaml
 # A rule - this rule will only run if file0.txt doesn't exist.
 file0.txt:
 	echo "foo" > file0.txt
@@ -25,3 +27,4 @@ file2.txt file3.txt: file0.txt file1.txt
 # It will never be up to date so make will always try to run it.
 clean:
 	rm file*.txt
+

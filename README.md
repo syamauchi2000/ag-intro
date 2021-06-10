@@ -10,5 +10,7 @@ This will be the third commit
 ```bash
 git clone https://github.com/say200000/ag-intro
 cd ag-intro
+make conda_env
 make
 ```
+
