@@ -1,7 +1,6 @@
 #!/bin/bash
 
 #SBATCH --job-name=featurecounts
-#SBATCH --output=logs/%x-%j.log
 #SBATCH --ntasks=8
 #SBATCH --nodes=1
 #SBATCH --mem=8G
