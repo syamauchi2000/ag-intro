@@ -5,3 +5,5 @@ test.paired_end.sorted.bam
 *.out
 # results
 counts.txt*
+cov_test.paired_end.sorted.bam
+cov_genome.gtf
