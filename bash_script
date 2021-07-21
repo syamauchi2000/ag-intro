@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/050/SRR10913250/SRR10913250_1.fastq.gz -o SRR10913250_GSM4276548_LNCaP_Veh_RNA-seq1_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/050/SRR10913250/SRR10913250_2.fastq.gz -o SRR10913250_GSM4276548_LNCaP_Veh_RNA-seq1_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/052/SRR10913252/SRR10913252_1.fastq.gz -o SRR10913252_GSM4276550_LNCaP_Dox_RNA-seq1_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/052/SRR10913252/SRR10913252_2.fastq.gz -o SRR10913252_GSM4276550_LNCaP_Dox_RNA-seq1_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/054/SRR10913254/SRR10913254_1.fastq.gz -o SRR10913254_GSM4276552_LNCaP_R1881_RNA-seq1_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/054/SRR10913254/SRR10913254_2.fastq.gz -o SRR10913254_GSM4276552_LNCaP_R1881_RNA-seq1_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/053/SRR10913253/SRR10913253_1.fastq.gz -o SRR10913253_GSM4276551_LNCaP_Dox_RNA-seq2_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/053/SRR10913253/SRR10913253_2.fastq.gz -o SRR10913253_GSM4276551_LNCaP_Dox_RNA-seq2_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/055/SRR10913255/SRR10913255_1.fastq.gz -o SRR10913255_GSM4276553_LNCaP_R1881_RNA-seq2_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/055/SRR10913255/SRR10913255_2.fastq.gz -o SRR10913255_GSM4276553_LNCaP_R1881_RNA-seq2_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/051/SRR10913251/SRR10913251_1.fastq.gz -o SRR10913251_GSM4276549_LNCaP_Veh_RNA-seq2_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/051/SRR10913251/SRR10913251_2.fastq.gz -o SRR10913251_GSM4276549_LNCaP_Veh_RNA-seq2_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/056/SRR10913256/SRR10913256_1.fastq.gz -o SRR10913256_GSM4276554_VCaP_Veh13_RNA-seq1_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/056/SRR10913256/SRR10913256_2.fastq.gz -o SRR10913256_GSM4276554_VCaP_Veh13_RNA-seq1_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/046/SRR10913246/SRR10913246_1.fastq.gz -o SRR10913246_GSM4276556_VCaP_Dox13_RNA-seq1_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/046/SRR10913246/SRR10913246_2.fastq.gz -o SRR10913246_GSM4276556_VCaP_Dox13_RNA-seq1_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/045/SRR10913245/SRR10913245_1.fastq.gz -o SRR10913245_GSM4276555_VCaP_Veh31_RNA-seq2_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/045/SRR10913245/SRR10913245_2.fastq.gz -o SRR10913245_GSM4276555_VCaP_Veh31_RNA-seq2_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/047/SRR10913247/SRR10913247_1.fastq.gz -o SRR10913247_GSM4276557_VCaP_Dox31_RNA-seq2_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/047/SRR10913247/SRR10913247_2.fastq.gz -o SRR10913247_GSM4276557_VCaP_Dox31_RNA-seq2_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/049/SRR10913249/SRR10913249_1.fastq.gz -o SRR10913249_GSM4276559_VCaP_R1881-31_RNA-seq2_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/049/SRR10913249/SRR10913249_2.fastq.gz -o SRR10913249_GSM4276559_VCaP_R1881-31_RNA-seq2_Homo_sapiens_RNA-Seq_2.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/048/SRR10913248/SRR10913248_1.fastq.gz -o SRR10913248_GSM4276558_VCaP_R1881-13_RNA-seq1_Homo_sapiens_RNA-Seq_1.fastq.gz
+curl -L ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/048/SRR10913248/SRR10913248_2.fastq.gz -o SRR10913248_GSM4276558_VCaP_R1881-13_RNA-seq1_Homo_sapiens_RNA-Seq_2.fastq.gz

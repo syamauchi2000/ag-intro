@@ -1,5 +1,5 @@
 {
-    "input": "samplesheet.csv",
+    "input": "rna_samplesheet.csv",
     "email": "say200000@utdallas.edu",
-    "genome": "GRCh37"
+    "genome": "GRCh38"
 }
